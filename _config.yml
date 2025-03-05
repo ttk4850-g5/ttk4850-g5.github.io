@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Uh oh drikkevann
+email: mathbra@stud.ntnu.no
+url: https://ttk4850-g5.github.io/
+description: "Totally fetch."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Drikkevann!"
+meta_author: Gruppe5 TTK4850
 
 # Google webmaster tools
 google_verify:
