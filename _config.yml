@@ -32,31 +32,31 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Gruppe 5
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Våre kontaktflater
+  credits: Kule greier
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
   - title: facebook
-    url:
+    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
   - title: github
-    url: http://github.com/jekyll
+    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: NTNU
+  - line: Mjøsa
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Denne nettsiden benytter temaet Freelancer'
 
 # Build settings
 markdown: kramdown
