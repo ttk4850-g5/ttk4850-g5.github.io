@@ -2,8 +2,8 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
-alt: image-alt
+img: ask_freepik.png
+alt: ALT-TEKST
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
