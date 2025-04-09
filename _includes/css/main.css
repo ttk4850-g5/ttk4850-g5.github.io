@@ -107,27 +107,25 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
-    border: 2px solid white;
-    border-radius: 5px;
 }
 
 header .skills.safe {
     font-size: 1.25em;
     font-weight: bold;
-    color: green;
+    color: #97d729;
     text-shadow:
-        -1px -1px 0 white, /* Top-left */
-         1px -1px 0 white, /* Top-right */
-        -1px  1px 0 white, /* Bottom-left */
-         1px  1px 0 white; /* Bottom-right */
+        -0.3rem -0.3rem 0 white, /* Top-left */
+         0.3rem -0.3rem 0 white, /* Top-right */
+        -0.3rem  0.3rem 0 white, /* Bottom-left */
+         0.3rem  0.3rem 0 white; /* Bottom-right */
 }
 header .skills.danger {
-    color: red;
+    color: #ff4756;
     text-shadow:
-        -1px -1px 0 white, /* Top-left */
-         1px -1px 0 white, /* Top-right */
-        -1px  1px 0 white, /* Bottom-left */
-         1px  1px 0 white; /* Bottom-right */
+        -0.3rem -0.3rem 0 white, /* Top-left */
+         0.3rem -0.3rem 0 white, /* Top-right */
+        -0.3rem  0.3rem 0 white, /* Bottom-left */
+         0.3rem  0.3rem 0 white; /* Bottom-right */
 }
 
 @media(min-width:768px) {
