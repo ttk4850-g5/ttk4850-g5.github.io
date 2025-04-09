@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2024-04-09
-img: resized_tankt-truck_umeicon.png
+img: resized_tank-truck_umeicon.png
 alt: Tankbil med vann - Opphavsrett, umeIcon
 project-date: April 2025
 client: Sivilforsvaret
