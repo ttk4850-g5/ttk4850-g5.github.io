@@ -107,6 +107,15 @@ header .intro-text .name {
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.status-text.safe {
+    color: green;
+}
+.status-text.danger {
+    color: red;
 }
 
 @media(min-width:768px) {
@@ -121,6 +130,8 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+        border: 2px solid white;
+        border-radius: 5px;
     }
 }
 
