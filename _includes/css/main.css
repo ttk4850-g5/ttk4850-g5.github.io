@@ -111,11 +111,13 @@ header .intro-text .skills {
     border-radius: 5px;
 }
 
-.status-text.safe {
+.skills.safe {
     color: green;
+    border-color: white;
 }
-.status-text.danger {
+.skills.danger {
     color: red;
+    border-color: white;
 }
 
 @media(min-width:768px) {
