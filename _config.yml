@@ -3,7 +3,7 @@ title: Vannet i Mjøsa
 email: mathbra@stud.ntnu.no
 url: https://ttk4850-g5.github.io/
 description: "Informasjon om vannkvaliteten i Mjøsa"
-keywords: "your keywords, separated by commas"
+keywords: "Beredskap, Vannmangel, Mjøsa, Drikkevann, Forurensing, Forsyningssikkerhet, Vanningsforbud, Kokevarsel, Vannberedskap, Badestatus, Samfunnssikkerhet"
 skills: "STATUS: TRYGT"
 meta_author: Gruppe5 TTK4850
 
@@ -45,10 +45,10 @@ social:
     url: https://www.imjosa.no/
   - title: house-flood-water
     url: https://www.hias.no/
-  - title: bitbucket
-    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
-  - title: github
-    url: https://www.youtube.com/watch?v=r8E0CbYZcjE
+  - title: caret-up
+    url: https://www.sivilforsvaret.no/
+  - title: clinic-medical
+    url: https://www.sykehuset-innlandet.no/
   - title: pinterest
     url: https://www.nrk.no
 
@@ -58,7 +58,7 @@ address:
   - line: Mjøsa
 
 # Credits content
-credits: 'Denne nettsiden benytter temaet Freelancer'
+credits: 'Denne nettsiden er en viderutvikling av temate Freelancer'
 
 # Build settings
 markdown: kramdown
