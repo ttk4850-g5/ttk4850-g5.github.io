@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-04-09
-img: preparation_freepik.png
+img: resized_preparation_freepik.png
 alt: Opphavsrett - Freepik
 project-date: April 2025
 client: Direktoratet for samfunnssikkerhet og beredskap
