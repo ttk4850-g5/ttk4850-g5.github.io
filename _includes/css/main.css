@@ -111,11 +111,11 @@ header .intro-text .skills {
     border-radius: 5px;
 }
 
-.skills.safe {
+header .skills.safe {
     color: green;
     border-color: white;
 }
-.skills.danger {
+header .skills.danger {
     color: red;
     border-color: white;
 }
