@@ -112,12 +112,22 @@ header .intro-text .skills {
 }
 
 header .skills.safe {
+    font-size: 1.25em;
+    font-weight: bold;
     color: green;
-    border-color: white;
+    text-shadow:
+        -1px -1px 0 white, /* Top-left */
+         1px -1px 0 white, /* Top-right */
+        -1px  1px 0 white, /* Bottom-left */
+         1px  1px 0 white; /* Bottom-right */
 }
 header .skills.danger {
     color: red;
-    border-color: white;
+    text-shadow:
+        -1px -1px 0 white, /* Top-left */
+         1px -1px 0 white, /* Top-right */
+        -1px  1px 0 white, /* Bottom-left */
+         1px  1px 0 white; /* Bottom-right */
 }
 
 @media(min-width:768px) {
