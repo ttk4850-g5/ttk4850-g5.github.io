@@ -1,7 +1,7 @@
-Freelancer Jekyll theme  
+Eksperter i Team - TTK4850 Oppdrag Mjøsa
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Navn Navnesen
 
 ## How to use
  - Place a image in `/img/portfolio/`
