@@ -2,7 +2,7 @@
 layout: default
 title: Vannberedskap
 modal-id: 1
-date: 2025-04-09
+date: 2024-04-09
 img: resized_preparation_freepik.png
 alt: Opphavsrett - Freepik
 project-date: April 2025
