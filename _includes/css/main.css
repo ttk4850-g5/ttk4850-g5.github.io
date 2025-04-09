@@ -105,7 +105,7 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 1.25em;
+    font-size: 3em;
     font-weight: 300;
 }
 
@@ -116,7 +116,7 @@ header .skills.safe {
     -webkit-text-stroke: 0.2rem white;
 }
 header .skills.danger {
-    color: #ff4756;
+    color: #ff4756; /**/
     -webkit-text-stroke: 0.2rem white;
 }
 
