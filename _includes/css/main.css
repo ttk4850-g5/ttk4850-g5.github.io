@@ -136,6 +136,7 @@ header .skills.danger {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        font-size: 2rem;
     }
 
     .navbar-fixed-top .navbar-brand {
@@ -379,7 +380,7 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    top inmargin-bottom: 50px;
 }
 
 footer .footer-below {
